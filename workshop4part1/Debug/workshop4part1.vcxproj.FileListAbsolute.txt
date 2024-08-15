@@ -1,0 +1,2 @@
+C:\Users\pglen\source\repos\workshop4part1\Debug\workshop4part1.exe
+C:\Users\pglen\source\repos\workshop4part1\Debug\workshop4part1.pdb
