@@ -1,0 +1,5 @@
+﻿  w4p2.c
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop4part2\w4p2.c(109,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop4part2\w4p2.c(138,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop4part2\w4p2.c(15,71): warning C4101: 'f': unreferenced local variable
+  workshop4part2.vcxproj -> C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop4part2\Debug\workshop4part2.exe
