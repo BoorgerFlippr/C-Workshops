@@ -1,0 +1,19 @@
+Glenn Parreno
+115 814 196
+geparreno@myseneca.ca
+IPC144 NDD
+
+Workshop 2 reflection
+
+1) The reason why 10.12 does not show the value expected is because the scale of the format specifier in number to is too high thus, reducing the output's precision. This happens because unlike 10.10 and 10.15, there is no exact value so what happens is it will continue to output numbers to meet what is required from the format specifier 0.15. In order to print out the desired output the scale of the format specifier should be reduced, resulting in a more precise number.
+
+2)  All the possible values that can be returned from the following statements are:
+
+	a) intValue % 2 : 0 - 1
+	b) intValue % 3 : 0 - 2
+	c) intValue % 100 : 0 - 99
+
+3) int wholePizzasEaten = totalSlices % estimatedSlicesEaten
+   int extraSlicesNeeded = wholePizzasEaten /12
+
+4) It is good practice to convert floating point values into integers because some arithmetic operation only works with integers. Take for example the modulus operator can only work if you feed it integer values. Converting floating point values to integers often yields more precise answers as well.

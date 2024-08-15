@@ -1,0 +1,6 @@
+﻿  w2p2.c
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop2part2\w2p2.c(30,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop2part2\w2p2.c(35,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop2part2\w2p2.c(40,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop2part2\w2p2.c(45,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  workshop2part2.vcxproj -> C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop2part2\Debug\workshop2part2.exe
