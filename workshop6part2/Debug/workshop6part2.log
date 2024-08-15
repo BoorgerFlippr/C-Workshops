@@ -1,0 +1,4 @@
+﻿  w6p2.c
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop6part2\w6p2.c(144,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop6part2\w6p2.c(275,9): warning C4101: 'cheapestOption': unreferenced local variable
+  workshop6part2.vcxproj -> C:\Users\pglen\OneDrive\Desktop\ipc144(2)\workshop6part2\Debug\workshop6part2.exe
